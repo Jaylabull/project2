@@ -37,12 +37,13 @@ To-Do List:
 - Improve page styling and design
   
 ## Project Workflow
-- Backend Setup
+Backend Setup
   - Created a diagram prototype
   - Set up Models class based on diagram
   - Set up Services of customer 
   - Set up Repository for service request and connection
-- Frontend Setup
+  
+Frontend Setup
   - Created components based on the models and services required
   - set up API request methods to connect to the backend 
   - CSS style additions
