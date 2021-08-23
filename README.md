@@ -22,12 +22,14 @@ FirstThyme Grocery is essentially a shopping application where a customer can bu
 `HTML`
 
 ## Features
-- User can sign up
-- Customer
+User can sign up
+
+Customer
   - Login
   - Update user information
   - View inventory
-- Manager
+ 
+ Manager
   - Create items
   - Update inventoy quantity
   
