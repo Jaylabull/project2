@@ -5,15 +5,21 @@
 FirstThyme Grocery is essentially a shopping application where a customer can build a shopping cart and purchase items. The manager adds and edits an inventory mamangement system. Project 2 entails collaborating with a group to build a full stack functional application.
 
 ## Technologies Used
+ `Java8`
+ 
+ `SpringBoot`
+ 
+ `Angular`
 
-- `Java8`
-- `SpringBoot`
-- `Angular`
-- `AWS: S3 Bucket`
-- `PostgreSQL`
-- `TypeScript`
-- `CSS`
-- `HTML`
+`AWS: S3 Bucket`
+
+`PostgreSQL`
+
+`TypeScript`
+
+`CSS`
+
+`HTML`
 
 ## Features
 - User can sign up
