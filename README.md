@@ -30,12 +30,21 @@ To-Do List:
 - Customer can check out/make transaction
 - Improve page styling and design
   
-## Getting Started
+## Project Workflow
+- Backend Setup
+  - Created a diagram prototype
+  - Set up Models class based on diagram
+  - Set up Services of customer 
+  - Set up Repository for service request and connection
+- Frontend Setup
+  - Created components based on the models and services required
+  - set up API request methods to connect to the backend 
+  - CSS style additions
 
 ## Contributors
-[Jonathan Starkey](https://github.com/astroo22)
-[Daniel Ratliff](https://github.com/DanielRatliff)
-[Petite Izere](https://github.com/petitizere89)
+- [Jonathan Starkey](https://github.com/astroo22)
+- [Daniel Ratliff](https://github.com/DanielRatliff)
+- [Petite Izere](https://github.com/petitizere89)
 
 
 
